@@ -3,7 +3,7 @@
 	url = https://github.com/shoutnk/odin-master
 [submodule "odin-driver-patches"]
 	path = odin-driver-patches
-	url = https://github.com/lalithsuresh/odin-driver-patches
+	url = https://github.com/shoutnk/odin-driver-patches
 [submodule "odin-agent"]
 	path = odin-agent
 	url = https://github.com/shoutnk/odin-agent
